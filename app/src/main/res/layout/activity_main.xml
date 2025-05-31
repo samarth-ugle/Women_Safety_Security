@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="30dp"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Making India"
+        android:textColor="#F4511E"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Safer For Women"
+        android:textColor="#6870A4"
+        android:textStyle="bold"
+        android:textSize="30dp"/>
+
+
+
+    <Button
+        android:id="@+id/sosButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Receive Help"
+        android:textColor="#fff"
+        android:backgroundTint="#58CA5D"
+        android:textSize="20sp"
+        android:layout_marginTop="80dp"
+        android:layout_centerInParent="true"/>
+</LinearLayout>
