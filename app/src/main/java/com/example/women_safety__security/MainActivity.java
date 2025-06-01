@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     Button sosButton;
     FusedLocationProviderClient fusedLocationProviderClient;
     String emergencyNumber = "112"; // Replace with your local emergency number
-    String contactPhoneNumber = "112"; // Replace with emergency contact number
+    String contactPhoneNumber = "9322011614"; // Replace with emergency contact number
 
     private static final int PERMISSION_REQUEST_CODE = 101;
 
