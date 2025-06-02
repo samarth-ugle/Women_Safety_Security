@@ -22,8 +22,6 @@
         android:textStyle="bold"
         android:textSize="30dp"/>
 
-
-
     <Button
         android:id="@+id/sosButton"
         android:layout_width="wrap_content"
@@ -34,4 +32,5 @@
         android:textSize="20sp"
         android:layout_marginTop="80dp"
         android:layout_centerInParent="true"/>
+
 </LinearLayout>
